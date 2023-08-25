@@ -24,3 +24,5 @@ sudo apt-get install python-catkin-tools python-rosinstall-generator -y
 
 sudo apt update -y
 sudo apt upgrade -y
+
+source ~/.bashrc
